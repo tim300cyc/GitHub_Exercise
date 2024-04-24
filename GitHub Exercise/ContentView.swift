@@ -19,7 +19,7 @@ struct ContentView: View {
                 .fontWeight(.black)
         }
         .padding()
-        .foregroundStyle(.red)
+        .foregroundColor(.red)
     }
 }
 
